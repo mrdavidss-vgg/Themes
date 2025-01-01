@@ -1,0 +1,45 @@
+{
+  "fontName": "SlimFutura",
+  "designer": "Custom",
+  "style": "Sans-serif",
+  "weight": "Regular",
+  "metrics": {
+    "ascender": 800,
+    "descender": -200,
+    "lineHeight": 1000,
+    "capHeight": 700,
+    "xHeight": 500
+  },
+  "glyphs": {
+    "A": {
+      "width": 600,
+      "points": [
+        { "x": 300, "y": 0 },
+        { "x": 0, "y": 700 },
+        { "x": 600, "y": 700 },
+        { "x": 300, "y": 500 }
+      ]
+    },
+    "B": {
+      "width": 600,
+      "points": [
+        { "x": 0, "y": 0 },
+        { "x": 0, "y": 700 },
+        { "x": 400, "y": 700 },
+        { "x": 400, "y": 350 },
+        { "x": 0, "y": 350 },
+        { "x": 400, "y": 350 },
+        { "x": 400, "y": 0 }
+      ]
+    },
+    "C": {
+      "width": 600,
+      "points": [
+        { "x": 600, "y": 0 },
+        { "x": 0, "y": 0 },
+        { "x": 0, "y": 700 },
+        { "x": 600, "y": 700 }
+      ]
+    }
+  }
+}
