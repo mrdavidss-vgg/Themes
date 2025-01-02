@@ -1,2 +1,2 @@
 # Themes
-Vendetta Themes / Bunny
+Vendetta / Bunny Themes for Discord!
